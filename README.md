@@ -3,7 +3,7 @@
 A program that generates a valid Sudoku board through recursive algorithms and provides an interactive game mode, all within a terminal interface.
 
 # Technology 
-  - * *C++, Makefile **
+  - **C++, Makefile **
    
 # Instruction 
   1. Git clone this repository.
